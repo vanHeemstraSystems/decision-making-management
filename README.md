@@ -1,5 +1,5 @@
-repository-name
-# Repository Name
+decision-making-management
+# Decision-Making Management
 
 > Slugline
 
